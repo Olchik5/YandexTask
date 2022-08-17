@@ -1,0 +1,15 @@
+764  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -441602218
+764  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+779  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+779  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+779  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+779  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:null] 2145600429
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE SearchItemTest.searchItemTest()[pri:0, instance:com.telran.testTask.tests.SearchItemTest@442b452e] -1215746538
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+794  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
