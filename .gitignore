@@ -23,7 +23,7 @@ debug/
 .idea_modules/
 
 *.class
-*.jar
+#*.jar
 *.war
 *.ear
 *.tmp
