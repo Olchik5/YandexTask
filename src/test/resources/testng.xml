@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SearchItem" verbose="1" >
+    <test name="SearchItem" >
+        <classes>
+            <class name="com.telran.testTask.tests.SearchItemTest">
+            </class>
+        </classes>
+    </test>
+</suite>
